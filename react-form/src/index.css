@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Jersey+15&display=swap");
+
+* {
+  font-family: "Jersey 15";
+}
+
+body {
+  background-color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+table {
+  border: 1px solid #ccc;
+  border-collapse: collapse;
+}
+
+.table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+table td {
+  border: 1px solid #ccc;
+  padding: 5px 10px;
+}
+
+table td:first-child {
+  font-weight: 600;
+}
+
+form {
+  margin: 10px;
+  display: flex;
+  flex-direction: column;
+  width: 250px;
+  gap: 10px;
+}
+
+.country {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
