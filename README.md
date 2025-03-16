@@ -1,3 +1,3 @@
 # react-projects
 
-here I layout my projects that I create while learning ReactJS
+here I lay out my projects that I create while learning ReactJS
